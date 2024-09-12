@@ -1,19 +1,41 @@
-👋 Hi, I’m @PatienceLozano
+# 🌟 Hola, soy **Patience Lozano** (@PatienceLozano) 🌟
 
-👀 I’m interested in design, UX/UI, and web development.
+## 🚀 Sobre Mí
+¡Hola! Soy una **diseñadora UX/UI** y **desarrolladora web** apasionada por crear experiencias digitales inolvidables. Mi misión es transformar ideas en soluciones visuales atractivas y funcionales que conecten con los usuarios y resuelvan problemas de manera innovadora.
 
-🌱 I’m currently learning advanced techniques in user experience design and exploring new trends in web development.
+## 🎨 ¿Qué Hago?
+- **Diseño Creativo**: Me encanta darle vida a las ideas mediante **Figma** y **Photoshop**. Desde prototipos hasta interfaces pulidas, siempre busco que cada diseño sea único.
+- **Desarrollo Web**: Hago magia con **HTML**, **CSS** y **JavaScript** para construir sitios web interactivos y responsivos que encantan a los usuarios.
+- **Investigación UX**: Analizo y entiendo a los usuarios para mejorar la experiencia con pruebas de usabilidad y **investigación de usuarios**.
+- **Gestión de Proyectos**: Organizo y optimizo flujos de trabajo utilizando **Jira** y **Notion** para mantener todo bajo control.
 
-💞️ I’m looking to collaborate on exciting design projects, especially those that involve innovative UX/UI solutions and creative problem-solving.
+## 🌱 Aprendizajes Actuales
+Estoy explorando **nuevas tendencias en desarrollo web** y profundizando en **técnicas avanzadas de diseño de experiencia de usuario**. ¡Siempre hay algo nuevo por descubrir!
 
-📫 How to reach me: You can contact me via email at patiencelozano@gmail.com or connect with me on LinkedIn at [linkedin.com/in/patiencelozano.](https://www.linkedin.com/in/patiencelozanog%C3%B2mez/)
+## 💞️ Colaboraciones
+¡Busco colaborar en **proyectos innovadores**! Si tienes un reto emocionante en **diseño UX/UI** o desarrollo web, me encantaría ser parte de él. Vamos a crear algo increíble juntos.
 
-😄 Pronouns: She/Her
+## 📫 ¡Conéctemos!
+- **Correo Electrónico**: [patientslozano@gmail.com](mailto:patientslozano@gmail.com)
+- **LinkedIn**: [linkedin.com/in/patiencelozano](https://linkedin.com/in/patiencelozano)
 
-⚡ Fun fact: I once designed a website in a weekend hackathon and won first place!
+## 🌐 Idiomas
+- **Español**: Nativo
+- **Inglés**: Avanzado
+- **Francés**: Intermedio
 
+## 😄 Pronombres
+Ella/Ella
 
-<!---
-PatienceLozano/PatienceLozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Dato Curioso
+¡Diseñé un sitio web en un hackathon de fin de semana y gané el primer lugar! 🎉
+
+## 🛠️ Herramientas y Tecnologías
+- **Diseño y Prototipado**: Figma, Photoshop
+- **Desarrollo Web**: HTML, CSS, JavaScript
+- **Gestión de Proyectos**: Jira, Notion
+- **Investigación UX**: Investigación de usuarios, pruebas de usabilidad
+
+---
+
+¡Gracias por visitar mi perfil! 🚀✨
