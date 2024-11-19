@@ -28,7 +28,7 @@ Estoy explorando **nuevas tendencias en desarrollo web** y profundizando en **t�
 Ella/Ella
 
 ## ⚡ Dato Curioso
-¡Diseñé un sitio web en un hackathon de fin de semana y gané el primer lugar! 🎉
+¡Diseñé un sitio web en un hackathon de fin de semana y gané el primer premio! 🎉
 
 ## 🛠️ Herramientas y Tecnologías
 - **Diseño y Prototipado**: Figma, Photoshop
